@@ -1,0 +1,8 @@
+{
+    "name": "cpp-game",
+    "version": "0.1.0",
+    "builtin-baseline": "dd3097e305afa53f7b4312371f62058d2e665320",
+    "dependencies": [
+        "sdl3"
+    ]
+}
